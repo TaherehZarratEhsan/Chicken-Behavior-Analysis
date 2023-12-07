@@ -6,15 +6,17 @@
 ###### 3- Chicken behavior analysis based on the trajectory evaluation    
 #### Member: Tahereh Zarrat Ehsan, Seyed Mehdi Mohtavipour Shafti
 ![ICCKE Competition_page-0001](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis/assets/91826778/c5fac762-e061-4865-b1cc-20ca37453227)
-![Detect10_BB_120](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis/assets/91826778/4200eb00-b9ae-46b8-8f45-3512121d1a6b)
 
 
-# Chicken Detection Results 
+# Chicken Detection Result
 # ![Detect8_BB_177](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis/assets/91826778/33dde34f-55a9-4ded-bba2-1ca69391062a)
-# ![Detect14_BB_166](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis/assets/91826778/1426682a-882d-461c-84fb-3aa9cfe2e72a)
 
+# Chicken Gathering Anomaly Result
+#
+# Inactive Chicken Detection Result
+#
 
-# Chicken Grouping Anomaly Results 
+#
 
 
 

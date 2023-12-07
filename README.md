@@ -1,4 +1,4 @@
-# Chicken-Behavior-Analysis
+# Chicken Behavior Analysis
 #### Winner of Scientific-Industrial Computer Vision Competition in 12th International Conference on Computer and Knowledge Engineering (Second Place), 2022. 
 #### The goal of this competition was to propose a machine-learning framework for chicken behavior analysis and the framework must comprise the following parts: 
 ###### 1- Chicken detection in a crowded challenging poultry environment 
@@ -12,10 +12,8 @@
 ## Chicken Gathering Anomaly Result
 # ![Dense_6](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis/assets/91826778/e20afeb0-700a-4d3a-a25e-b864b0cf2646)
 
-
 ## Inactive Chicken Detection Result
 # ![Sick_2](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis/assets/91826778/f2294abe-f942-422b-99a8-7449a4ceadf8)
-
 
 ## Tracking Result
 # 

@@ -19,6 +19,7 @@ The goal of this competition was to propose a machine-learning framework for chi
 # ![Tracking_Result_1](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis/assets/91826778/99d95930-dfef-4594-9d48-48aa85338bed)
 
 ## Distance Measure Result    
+# ![Tracker_Distance_Mehasure_3](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis/assets/91826778/ffc98df5-2ecd-42e4-bf2a-4e73c400127a)
 
 ## Certificate
 ![ICCKE Competition_page-0001](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis/assets/91826778/c5fac762-e061-4865-b1cc-20ca37453227)

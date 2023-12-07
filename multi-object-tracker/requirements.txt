@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+opencv-contrib-python
+pandas
+motmetrics
+setuptools
+ipyfilechooser

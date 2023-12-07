@@ -5,20 +5,23 @@
 ###### 2- Tracker to find the trajectory of detected chickens 
 ###### 3- Chicken behavior analysis based on the trajectory evaluation    
 #### Member: Tahereh Zarrat Ehsan, Seyed Mehdi Mohtavipour Shafti
-![ICCKE Competition_page-0001](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis/assets/91826778/c5fac762-e061-4865-b1cc-20ca37453227)
 
-
-# Chicken Detection Result
+## Chicken Detection Result
 # ![Detect8_BB_177](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis/assets/91826778/33dde34f-55a9-4ded-bba2-1ca69391062a)
 
-# Chicken Gathering Anomaly Result
-#
+## Chicken Gathering Anomaly Result
+# ![Dense_6](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis/assets/91826778/e20afeb0-700a-4d3a-a25e-b864b0cf2646)
 
 
-# Inactive Chicken Detection Result
+## Inactive Chicken Detection Result
+# ![Sick_2](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis/assets/91826778/f2294abe-f942-422b-99a8-7449a4ceadf8)
+
+
+## Tracking Result
 # 
 
-#
+## Certificate
+![ICCKE Competition_page-0001](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis/assets/91826778/c5fac762-e061-4865-b1cc-20ca37453227)
 
 
 

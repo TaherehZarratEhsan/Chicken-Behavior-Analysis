@@ -6,7 +6,9 @@ Member:  Tahereh Zarrat Ehsan, and Seyed Mehdi Mohtavipour
 
 
 # Chicken Detection
-![Detect1_BB_142](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis/assets/91826778/2895f6ed-ceec-448e-bf05-93deb37a4f5b)
+![Detect1_BB_142](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis/assets/91826778/2895f6ed-ceec-448e-bf05-93deb37a4f5b)![Uploading Detect8_BB_177.png…]()
+
+
 
 
 

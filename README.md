@@ -5,7 +5,7 @@ The goal of this competition was to propose a machine-learning framework for chi
 2- Tracker to find the trajectory of detected chickens   
 3- Chicken behavior analysis based on the trajectory evaluation      
 ##### Member: Tahereh Zarrat Ehsan, Seyed Mehdi Mohtavipour Shafti
-
+Cite as : https://arxiv.org/abs/2401.12176
 ## Chicken Detection Result
 # ![Detect8_BB_177](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis/assets/91826778/33dde34f-55a9-4ded-bba2-1ca69391062a)
 

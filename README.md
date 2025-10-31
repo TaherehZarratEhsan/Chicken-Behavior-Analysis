@@ -31,7 +31,9 @@ In the 'Broiler_Tracking.ipynb' file, the saved model is used to track chickens 
 ![ICCKE Competition_page-0001](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis/assets/91826778/c5fac762-e061-4865-b1cc-20ca37453227)
 
 
+## 📜 License
 
+This project is licensed under the Apache 2.0 License.
 
 
 
